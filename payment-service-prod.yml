@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5441/payment_service_database
+    username: postgres
+    password: root
+
+paystack:
+  secret:
+    key: sk_test_38870175a6e7f0b2236f2d15c090ec325730551a
+  base-url: "https://api.paystack.co"

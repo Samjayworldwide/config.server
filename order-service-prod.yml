@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5440/order_service_database
+    username: postgres
+    password: root
+
+cloudinary:
+  name: dhczue26b
+  api_key: 667484582654368
+  secret: rBOpIZyXqT4wYBgCGmaduEXDYwU

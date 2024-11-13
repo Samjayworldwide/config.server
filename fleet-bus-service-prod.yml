@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5437/fleet_bus_service_database
+    username: postgres
+    password: root

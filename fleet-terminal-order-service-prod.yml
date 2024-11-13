@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5438/fleet_order_service_database
+    username: postgres
+    password: root

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to my driver-document-service related local APIs"
+  contactDetails:
+    name: "Samuel Mbanisi -Developer"
+    email: "mbanisisamuel@gmail.com"
+  onCallSupport:
+    - (+234)8024789528
+    - (+234)8101022631

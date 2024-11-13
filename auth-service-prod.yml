@@ -1,0 +1,14 @@
+jwt:
+  key: "jxgEQeXHuPq8VdbyYFNkANdudQ53YUn4"
+  header: "Authorization"
+
+cloudinary:
+  name: dhczue26b
+  api_key: 667484582654368
+  secret: rBOpIZyXqT4wYBgCGmaduEXDYwU
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/auth_service_database
+    username: postgres
+    password: root
